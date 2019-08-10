@@ -1,7 +1,7 @@
 {
   "posts": [
     { "id": 1, "title": "json-serverrr", "author": "typicode" }
-    { "id": 1, "title": "呂萌", "author": "測試用" }
+    ,{ "id": 1, "title": "呂萌", "author": "測試用" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
