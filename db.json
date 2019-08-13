@@ -25,8 +25,8 @@
     { "id": 23, "title": "Ketakuma", "author": "https://3.bp.blogspot.com/-x5g8Cgqqz5k/W2ulC8tSU_I/AAAAAAALlFA/xi5dDv4JnbUxnjWv-dreeWb7lKrdZaqRQCLcBGAs/s1600/TS0004288.png" },
     { "id": 24, "title": "SpiderMan", "author": "https://upload.wikimedia.org/wikipedia/zh/6/6d/436px-Amazing_Spider-Man_You%27re_Hired%21_Vol_1_1_Textless.jpg" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "option": [
+    { "trigger": true }
   ],
   "profile": { "name": "typicode" }
 }
