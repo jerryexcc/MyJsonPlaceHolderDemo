@@ -26,7 +26,7 @@
     { "id": 24, "title": "SpiderMan", "author": "https://upload.wikimedia.org/wikipedia/zh/6/6d/436px-Amazing_Spider-Man_You%27re_Hired%21_Vol_1_1_Textless.jpg" }
   ],
   "option": [
-      { "trigger": true, "DemoTitle": "啟稟大胸部將軍 試玩版到此結束"}
+      { "trigger": false, "DemoTitle": "啟稟大胸部將軍 試玩版到此結束"}
   ],
   "profile": { "name": "typicode" }
 }
