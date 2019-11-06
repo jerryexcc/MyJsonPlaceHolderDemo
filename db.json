@@ -30,6 +30,6 @@
   ],
   "profile": { "name": "typicode" },
   "android_lib": [
-      { "trigger": true, "DemoTitle": "看到這行,你可以把App刪掉啦", "show": "你在期待什麼?"}
+      { "trigger": false, "DemoTitle": "看到這行,你可以把App刪掉啦", "show": "你在期待什麼?"}
   ]
 }
