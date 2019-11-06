@@ -28,5 +28,8 @@
   "lilimu": [
       { "trigger": false, "DemoTitle": "啟稟大胸部將軍 試玩版到此結束"}
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+  "android_lib": [
+      { "trigger": true, "DemoTitle": "就是不給你用, 你來咬我呀"}
+  ]
 }
