@@ -30,6 +30,6 @@
   ],
   "profile": { "name": "typicode" },
   "android_lib": [
-      { "trigger": true, "DemoTitle": "看到這行的請在讀書會告訴我, 我送電影票", "show": "你在發什麼呆?"}
+      { "trigger": true, "DemoTitle": "看到這行的請在讀書會告訴我,我送電影票", "show": "你在發什麼呆?"}
   ]
 }
