@@ -32,6 +32,6 @@
       { "trigger": true, "DemoTitle": "電影票沒啦", "show": "你在發什麼呆?"}
   ],
   "fank_sheet": [
-      { "title": "Change", "text": "change KK:[tʃendʒ] DJ:[tʃeindʒ] 動變:changed; changed; changing 名複:changes"}
+      { "title": "Change", "text": "change KK:[tʃendʒ] DJ:[tʃeindʒ] 動變:changed; changed; changing 名複:changes","content": "vt.（使）改變；更改；使變化"}
   ]
 }
